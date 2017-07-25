@@ -1,0 +1,4 @@
+#Ignore files that are created when run a Phonegap app.
+#Folders: 
+platforms/*
+plugins/*
